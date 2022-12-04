@@ -31,14 +31,14 @@ input {
   margin: 0 auto;
   padding: 45px 10px 0 15px;
 }
-.pass_instruction{
-  font-family: 'Inter';
-font-style: normal;
-font-weight: 400;
-font-size: 12px;
-line-height: 15px;
-color: #7E7E7E;
-
+.pass_instruction {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 15px;
+  color: #7e7e7e;
+  
 }
 
 .btn_container {
@@ -96,4 +96,5 @@ color: #7E7E7E;
   line-height: 17px;
   text-decoration-line: underline;
   color: #1678cb;
+  cursor: pointer;
 }
